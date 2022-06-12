@@ -8,6 +8,8 @@
             string description, 
             Course course)
         {
+            if (course == null)
+                throw new System.Exception("O curso não pode ser nulo");
             Order = order;
             Title = title;
             Description = description;
