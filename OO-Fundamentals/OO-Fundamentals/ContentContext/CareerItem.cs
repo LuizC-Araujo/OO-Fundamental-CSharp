@@ -1,4 +1,6 @@
-﻿namespace OO_Fundamentals.ContentContext
+﻿using OO_Fundamentals.NotificationContext;
+
+namespace OO_Fundamentals.ContentContext
 {
     public class CareerItem : BaseContent
     {
@@ -9,7 +11,7 @@
             Course course)
         {
             if (course == null)
-                throw new System.Exception("O curso não pode ser nulo");
+                AddNotification(new Notification("Course", "Invalid Course"));
             Order = order;
             Title = title;
             Description = description;
