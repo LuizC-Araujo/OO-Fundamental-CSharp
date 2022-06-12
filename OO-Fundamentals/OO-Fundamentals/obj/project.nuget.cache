@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sC1wwRh3AcIoXm+XsM2ntGgXUY8x+mrt4ZhYbkpZaVmuTwXO0WI+CkEs2PYCY51rqyl4x3LQ3X+B9uo3D32qhQ==",
+  "success": true,
+  "projectFilePath": "E:\\OO-Fundamentals\\OO-Fundamentals\\OO-Fundamentals\\OO-Fundamentals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lj133\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
