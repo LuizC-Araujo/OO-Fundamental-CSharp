@@ -1,6 +1,6 @@
 ﻿namespace OO_Fundamentals.ContentContext
 {
-    public class CarrerItem
+    public class CareerItem
     {
         public int Order { get; set; }
         public string Title { get; set; }

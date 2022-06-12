@@ -2,14 +2,14 @@
 
 namespace OO_Fundamentals.ContentContext
 {
-    public class Carrer : Content 
+    public class Career : Content 
     {
-        public Carrer(string title, string url)
+        public Career(string title, string url)
             : base(title, url)
         {
-            Items = new List<CarrerItem>();
+            Items = new List<CareerItem>();
         }
-        public IList<CarrerItem> Items { get; set; }
+        public IList<CareerItem> Items { get; set; }
         public int TotalCourses => Items.Count;
 
     }
