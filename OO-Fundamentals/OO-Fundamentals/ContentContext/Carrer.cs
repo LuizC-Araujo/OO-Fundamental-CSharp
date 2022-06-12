@@ -8,5 +8,6 @@ namespace OO_Fundamentals.ContentContext
 {
     public class Carrer : Content 
     {
+        public int Courses { get; set; }
     }
 }
