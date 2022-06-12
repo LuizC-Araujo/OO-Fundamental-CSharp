@@ -1,13 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace OO_Fundamentals.ContentContext
 {
     public class Carrer : Content 
     {
-        public int Courses { get; set; }
+        public Carrer()
+        {
+            Items = new List<CarrerItem>();
+        }
+        public IList<CarrerItem> Items { get; set; }
+        public int TotalCourses 
+        { 
+            get 
+            {
+                return Items.Count;
+            } 
+        }
+
     }
 }
