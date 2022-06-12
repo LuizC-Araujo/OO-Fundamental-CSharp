@@ -1,7 +1,7 @@
 ﻿
 namespace OO_Fundamentals.ContentContext
 {
-    internal class Course : Content
+    public class Course : Content
     {
     }
 }

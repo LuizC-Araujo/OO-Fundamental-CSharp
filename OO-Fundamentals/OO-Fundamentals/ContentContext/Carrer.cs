@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OO_Fundamentals.ContentContext
 {
-    internal class Carrer : Content 
+    public class Carrer : Content 
     {
     }
 }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OO_Fundamentals.ContentContext
 {
-    internal class Article : Content
+    public class Article : Content
     {
     }
 }

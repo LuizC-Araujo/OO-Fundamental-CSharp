@@ -6,9 +6,13 @@ using System.Threading.Tasks;
 
 namespace OO_Fundamentals.ContentContext
 {
-    internal class Content
+    public abstract class Content
     {
-        public int Id { get; set; }
+        public Content()
+        {
+            Id = Guid.NewGuid(); // SPOF - Single Point of Failure
+        }
+        public Guid Id { get; set; }
 
         public string Title { get; set; }
 
