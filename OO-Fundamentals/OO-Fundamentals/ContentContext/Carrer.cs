@@ -9,13 +9,7 @@ namespace OO_Fundamentals.ContentContext
             Items = new List<CarrerItem>();
         }
         public IList<CarrerItem> Items { get; set; }
-        public int TotalCourses 
-        { 
-            get 
-            {
-                return Items.Count;
-            } 
-        }
+        public int TotalCourses => Items.Count;
 
     }
 }
