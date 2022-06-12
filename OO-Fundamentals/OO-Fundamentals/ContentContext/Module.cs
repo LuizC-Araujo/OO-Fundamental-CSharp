@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OO_Fundamentals.ContentContext
 {
-    public class Module
+    public class Module : BaseContent
     {
         public Module()
         {

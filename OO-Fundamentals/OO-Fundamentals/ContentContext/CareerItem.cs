@@ -1,6 +1,6 @@
 ﻿namespace OO_Fundamentals.ContentContext
 {
-    public class CareerItem
+    public class CareerItem : BaseContent
     {
         public CareerItem(
             int order, 

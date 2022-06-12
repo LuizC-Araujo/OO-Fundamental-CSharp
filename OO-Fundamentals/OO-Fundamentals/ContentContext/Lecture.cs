@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace OO_Fundamentals.ContentContext
 {
-    public class Lecture
+    public class Lecture : BaseContent
     {
         public int Order { get; set; }
         public string Title { get; set; }
