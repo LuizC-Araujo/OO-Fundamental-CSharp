@@ -1,0 +1,16 @@
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\bin\Debug\net5.0\OO-Fundamentals.exe
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\bin\Debug\net5.0\OO-Fundamentals.deps.json
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\bin\Debug\net5.0\OO-Fundamentals.runtimeconfig.json
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\bin\Debug\net5.0\OO-Fundamentals.runtimeconfig.dev.json
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\bin\Debug\net5.0\OO-Fundamentals.dll
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\bin\Debug\net5.0\ref\OO-Fundamentals.dll
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\bin\Debug\net5.0\OO-Fundamentals.pdb
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\obj\Debug\net5.0\OO-Fundamentals.csproj.AssemblyReference.cache
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\obj\Debug\net5.0\OO-Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\obj\Debug\net5.0\OO-Fundamentals.AssemblyInfoInputs.cache
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\obj\Debug\net5.0\OO-Fundamentals.AssemblyInfo.cs
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\obj\Debug\net5.0\OO-Fundamentals.csproj.CoreCompileInputs.cache
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\obj\Debug\net5.0\OO-Fundamentals.dll
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\obj\Debug\net5.0\ref\OO-Fundamentals.dll
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\obj\Debug\net5.0\OO-Fundamentals.pdb
+E:\OO-Fundamentals\OO-Fundamentals\OO-Fundamentals\obj\Debug\net5.0\OO-Fundamentals.genruntimeconfig.cache
