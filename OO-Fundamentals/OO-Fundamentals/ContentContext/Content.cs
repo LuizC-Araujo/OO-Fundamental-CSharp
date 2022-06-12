@@ -8,9 +8,11 @@ namespace OO_Fundamentals.ContentContext
 {
     public abstract class Content
     {
-        public Content()
+        public Content(string url, string title)
         {
             Id = Guid.NewGuid(); // SPOF - Single Point of Failure
+            Title = title;
+            Url = url;
         }
         public Guid Id { get; set; }
 

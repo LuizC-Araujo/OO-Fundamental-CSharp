@@ -4,7 +4,8 @@ namespace OO_Fundamentals.ContentContext
 {
     public class Course : Content
     {
-        public Course()
+        public Course(string title, string url)
+            : base(title, url)  
         {
             Modules = new List<Module>();   
         }
