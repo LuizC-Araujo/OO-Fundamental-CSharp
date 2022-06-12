@@ -1,4 +1,5 @@
 ﻿using OO_Fundamentals.ContentContext;
+using OO_Fundamentals.SubscriptionContext;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -58,6 +59,11 @@ namespace OO_Fundamentals
                         Console.WriteLine($"{notification.Property} - {notification.Message}");
                     }
                 }
+
+                var payPalSubscription = new PayPalSubscription();
+                var student = new Student();
+
+                student.CreateSubscription(payPalSubscription);
             }
 
             Thread.Sleep(5000);
