@@ -1,8 +1,5 @@
-﻿using System;
+﻿using OO_Fundamentals.SharedContext;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OO_Fundamentals.ContentContext
 {

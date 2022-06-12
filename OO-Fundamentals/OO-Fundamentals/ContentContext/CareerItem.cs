@@ -1,4 +1,5 @@
 ﻿using OO_Fundamentals.NotificationContext;
+using OO_Fundamentals.SharedContext;
 
 namespace OO_Fundamentals.ContentContext
 {

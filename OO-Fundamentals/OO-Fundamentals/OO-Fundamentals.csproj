@@ -6,4 +6,8 @@
     <RootNamespace>OO_Fundamentals</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="SubscriptionContext\" />
+  </ItemGroup>
+
 </Project>
